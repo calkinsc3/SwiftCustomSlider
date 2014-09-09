@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>26BD641C-ED62-4332-996B-00F8C225756B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomSliderExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFC90A16B9AB14DB5DF009FBB763C6C74094E404</key>
+		<string>https://github.com/calkinsc3/SwiftCustomSlider.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomSliderExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFC90A16B9AB14DB5DF009FBB763C6C74094E404</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/calkinsc3/SwiftCustomSlider.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFC90A16B9AB14DB5DF009FBB763C6C74094E404</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFC90A16B9AB14DB5DF009FBB763C6C74094E404</string>
+			<key>IDESourceControlWCCName</key>
+			<string>develop</string>
+		</dict>
+	</array>
+</dict>
+</plist>

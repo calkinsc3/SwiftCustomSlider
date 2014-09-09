@@ -50,19 +50,6 @@ class ViewController: UIViewController {
         self.bearsRangeSlider.curvanceousness = 1.0
         self.bearsRangeSlider.thumbTintColor = UIColor.orangeColor()
         
-//        let time = dispatch_time(DISPATCH_TIME_NOW, Int64(NSEC_PER_MSEC))
-//        
-//        dispatch_after(time, dispatch_get_main_queue()) {
-//            self.rangeSlider.trackHighlightTintColor = UIColor.redColor()
-//            self.rangeSlider.curvanceousness = 0.0
-//        }
-//        
-//        let bounds = UIScreen.mainScreen().bounds
-//        let appframe = UIScreen.mainScreen().applicationFrame
-        
-        //println("Mainscreen bounds: x=\(bounds.origin.x), y=\(bounds.origin.y), width=\(bounds.size.width), height=\(bounds.size.height)" )
-        //println("Mainscreen app frame: x=\(appframe.origin.x), y=\(appframe.origin.y), width=\(appframe.size.width), height=\(appframe.size.height)")
-        
         
     }
     
@@ -83,9 +70,6 @@ class ViewController: UIViewController {
     
     func rangeSliderValueChanged(rangeSlider: RangeSlider) {
         println("\(rangeSlider.sliderName) value changed: (\(rangeSlider.lowerValue) \(rangeSlider.upperValue))")
-//        println("honeyRangeSlider value changed: (\(honeyRangeSlider.lowerValue) \(honeyRangeSlider.upperValue))")
-//        println("packersRangeSlider value changed: (\(packersRangeSlider.lowerValue) \(packersRangeSlider.upperValue))")
-//        println("bearsRangeSlider value changed: (\(bearsRangeSlider.lowerValue) \(bearsRangeSlider.upperValue))")
     }
 
 
